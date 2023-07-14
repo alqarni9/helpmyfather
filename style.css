@@ -1,0 +1,69 @@
+
+body{
+
+font-size: 22px;
+
+font-family: sans-serif;
+
+margin: 2%;
+padding: %;
+
+
+}
+  h1 {
+    font-size: 50px;
+    text-align:center;
+    right: 10px;
+   
+    position: absolute;
+    top:20%;
+    left: 52%;
+   
+    transform: translateX(-52%)translateY(-70%);
+    color:brown;
+
+
+
+
+  }
+  
+  h3{
+font-size: 32px;
+text-align: center;
+position: absolute;
+top:45%;
+right: %;
+left: 52%;
+transform: translateX(-52%)translateY(-71%);
+
+
+
+
+    
+  }
+
+  
+p {
+text-align: center;
+font-family:'Segoe UI', Tahoma, Geneva, , sans-serif;
+position: absolute;
+top: 50%;
+right: 2%;
+left: 3%;
+padding: 3px;
+zoom: 1.70;
+
+}
+
+
+.h0{
+position: absolute;
+top: 7%;
+font-size: 19px;
+left: 148px;
+right: px;
+padding: 20;
+
+
+
+}
